@@ -19,6 +19,14 @@ Content {
             Slide {
                 src: "/media/art/data/SourceCode/THX/assets/images/happypeople.png"
             }
+
+            Slide {
+                src: "/media/art/data/SourceCode/LoveCoins/assets/images/balloons.png"
+            }
+
+            Slide {
+                src: "/media/art/data/SourceCode/LoveCoins/assets/images/herzen.png"
+            }
         }
     }
 
